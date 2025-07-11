@@ -12,7 +12,6 @@ Features a loading screen with random facts to give the user something to do whi
 - Loading screen that displays the live response stream and random webdev/programming facts (gives you something to do as it can take around 20-30 seconds for the quiz to generate)
 - Multiple choice Ed-style quiz with explanations and a progress bar
 - End screen with gifs, sarcastic messages, and confetti (>= 80%) that adapt to your quiz score
-- 14 track kahoot-flavored audio player (this is the real highlight, the quiz is just something to do while you're groovin :grin:)
 
 ## Tech Used
 
