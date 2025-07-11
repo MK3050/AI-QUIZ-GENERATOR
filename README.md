@@ -30,7 +30,7 @@ Features a loading screen with random facts to give the user something to do whi
 
 ## Tools ##
 - `create-next-app` (development and building)
-- Vercel (deployment)
+
 
 ## OpenAI Integration
 
